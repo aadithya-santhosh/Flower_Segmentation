@@ -29,7 +29,8 @@ Notebooks use the FastAI/PyTorch framework
 ## References
 
 [1] Oxford Flowers102 dataset
-```@InProceedings{Nilsback08,
+```
+@InProceedings{Nilsback08,
   author       = "Maria-Elena Nilsback and Andrew Zisserman",
   title        = "Automated Flower Classification over a Large Number of Classes",
   booktitle    = "Indian Conference on Computer Vision, Graphics and Image Processing",
