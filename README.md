@@ -1,9 +1,10 @@
 # Flower_Segmentation
 <ul>
-  <li>Image segmentation on oxford flower102 dataset [[1]](#1)</li>
+  <li>Image segmentation on oxford flower102 dataset</li>
   <li>Running the first few cells of the notebook will download the dataset.</li>
   <li>Running it will require an internet connection</li>
-  <li>Based on the Flowers102 dataset by oxford</li>
+  <li>Based on the Flowers102 dataset by oxford[[1]]</li>
+  <li>Dependencies in `requirement.txt`</li>
 </ul>
 
 ## References
